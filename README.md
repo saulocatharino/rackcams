@@ -7,5 +7,5 @@ How to use?<br>
 python3 rack_cam.py
 <br>
 <br>
-Enter the Country CODE, ex. BR for Brazil, US for USA.
+Enter the Country Symbol, ex. BR for Brazil, US for USA.
 
