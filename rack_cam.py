@@ -41,9 +41,6 @@ try:
                         count += 1
             except:
                 time.sleep(1)
-        
-        elif resp == 'N' or resp == 'n':
-            break
 
 
 except KeyboardInterrupt:
