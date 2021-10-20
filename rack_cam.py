@@ -4,7 +4,7 @@ import requests, re, time
 lista = []
 cidades = []
 arq = open("cameras.txt","w")
-arq.write("cidade,url\n")
+arq.write("country,city,url\n")
 arq.close()
 try:
 
