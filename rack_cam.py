@@ -9,12 +9,13 @@ arq.close()
 try:
 
     while True:
-
+        country = input("Country (ex. BR, US, EN): ")
+        country = country.upper()
         try:
             headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36'}       
             for page in range (0,100):
 
-                url = ("https://www.insecam.org/en/bycountry/BR/?page="+str(page))
+                url = ("https://www.insecam.org/en/bycountry/{}/?page={}".format(country,str(page)))
 
                 res = requests.get(url, headers=headers)
 
@@ -32,14 +33,14 @@ try:
                         arq = open("cameras.txt","a")
                         arq.write("{},{}\n".format(local,url.replace('"',"")))
                         arq.close()
-                        print(url)
+                        print (url)
 
         except:
             time.sleep(1)
 
 
 except KeyboardInterrupt:
-    print("")
+    print (" ")
 
 
                 
