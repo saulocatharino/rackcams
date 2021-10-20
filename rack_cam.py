@@ -9,7 +9,7 @@ arq.close()
 try:
 
     while True:
-        country = input("Country (ex. BR, US, ...): ")
+        country = input("Country (ex. BR, US, GB, ...): ")
         country = country.upper()
         try:
             headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36'}       
