@@ -1,0 +1,23 @@
+cidade,url
+Rio De Janeiro,http://143.106.161.110:80/mjpg/video.mjpg
+Rio De Janeiro,http://191.241.235.43:80/mjpg/video.mjpg
+Rio De Janeiro,http://150.161.41.3:80/mjpg/video.mjpg
+Rio De Janeiro,http://152.92.155.15:80/mjpg/video.mjpg
+Goiania,http://179.177.2.146:8080/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+Goiania,http://187.121.105.148:91/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+Goiania,http://179.145.30.148:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+Goiania,http://177.92.36.140:8083/cgi-bin/viewer/video.jpg?r=COUNTER
+Goiania,http://177.23.184.148:89/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+Goiania,http://201.67.123.136:8080/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+Belem,http://179.225.239.102:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+Belem,http://168.232.122.111:91/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+Belem,http://152.238.205.126:8083/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+Belem,http://168.232.122.111:90/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+Belem,http://187.22.154.100:1024/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+Belem,http://177.65.179.112:8080/?action=stream
+Blumenau,http://189.14.81.58:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+Blumenau,http://179.159.243.50:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+Blumenau,http://179.235.224.7:8081/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+Blumenau,http://187.37.250.13:85/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+Blumenau,http://187.49.243.7:8080/mjpg/video.mjpg
+Blumenau,http://177.10.208.14:8081/webcapture.jpg?command=snap&amp;channel=1?COUNTER
