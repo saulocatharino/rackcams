@@ -32,7 +32,7 @@ try:
                         arq = open("cameras.txt","a")
                         arq.write("{},{}\n".format(local,url.replace('"',"")))
                         arq.close()
-                        print (url)
+                        print(url)
 
         except:
             time.sleep(1)
