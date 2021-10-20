@@ -1,4 +1,4 @@
-country,cidade,url
+cidade,url
 US,Sunnyvale,http://192.135.76.230:80/SnapshotJPEG?Resolution=640x480&amp;amp;Quality=Clarity&amp;amp;COUNTER
 US,Baltimore,http://144.163.43.148:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
 US,Baltimore,http://71.37.29.153:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
@@ -126,3 +126,597 @@ US,Northfield,http://173.49.68.124:83/video/mjpg.cgi
 US,Northfield,http://75.100.158.166:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
 US,Northfield,http://76.92.58.170:8080/?action=stream
 US,Northfield,http://172.76.229.163:83/SnapshotJPEG?Resolution=640x480&amp;amp;Quality=Clarity&amp;amp;COUNTER
+US,Newark,http://172.76.229.163:82/SnapshotJPEG?Resolution=640x480&amp;amp;Quality=Clarity&amp;amp;COUNTER
+US,Newark,http://70.124.128.156:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Newark,http://71.167.9.162:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Newark,http://69.143.91.159:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Newark,http://162.191.59.166:81/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+US,Newark,http://100.8.212.165:8001/SnapshotJPEG?Resolution=640x480&amp;amp;Quality=Clarity&amp;amp;COUNTER
+US,Hammond,http://96.235.32.144:8888/out.jpg?q=30&amp;id=0.1317044913727916&amp;r=COUNTER
+US,Hammond,http://69.140.248.144:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Hammond,http://70.180.52.146:8001/SnapshotJPEG?Resolution=640x480&amp;amp;Quality=Clarity&amp;amp;COUNTER
+US,Hammond,http://166.155.147.139:8000/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Hammond,http://71.190.25.138:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Hammond,http://24.179.60.138:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Columbus,http://173.228.113.139:80/SnapshotJPEG?Resolution=640x480&amp;amp;Quality=Clarity&amp;amp;COUNTER
+US,Columbus,http://216.144.138.137:8000/SnapshotJPEG?Resolution=640x480&amp;amp;Quality=Clarity&amp;amp;COUNTER
+US,Columbus,http://108.49.199.123:8080/shot.jpg?rnd=654321
+US,Columbus,http://67.199.211.137:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+US,Columbus,http://73.184.137.123:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Columbus,http://71.213.190.138:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Stanton,http://47.148.150.122:82/jpg/image.jpg?COUNTER
+US,Stanton,http://75.162.81.118:80/jpg/image.jpg?COUNTER
+US,Stanton,http://47.148.150.122:81/jpg/image.jpg?COUNTER
+US,Stanton,http://73.226.222.122:80/cgi-bin/viewer/video.jpg?r=COUNTER
+US,Stanton,http://73.176.214.121:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+US,Stanton,http://66.43.253.100:80/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Lowell,http://216.176.142.123:8090/?action=stream
+US,Lowell,http://75.175.196.122:8080/?action=stream
+US,Lowell,http://173.73.66.117:80/SnapshotJPEG?Resolution=640x480&amp;amp;Quality=Clarity&amp;amp;COUNTER
+US,Lowell,http://47.233.25.123:8000/videostream.cgi?user=admin&amp;pwd=
+US,Lowell,http://47.233.25.123:8001/videostream.cgi?user=admin&amp;pwd=
+US,Lowell,http://75.67.189.122:8080/mjpg/video.mjpg
+US,Cupertino,http://166.253.70.102:80/-wvhttp-01-/GetOneShot?image_size=640x480&amp;frame_count=1000000000
+US,Cupertino,http://66.225.65.102:8888/out.jpg?q=30&amp;id=0.1317044913727916&amp;r=COUNTER
+US,Cupertino,http://166.141.33.108:81/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Cupertino,http://75.170.107.102:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Cupertino,http://67.140.196.109:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Cupertino,http://50.0.26.108:8080/?action=stream
+US,Coos Bay,http://104.243.8.110:5000/mjpg/video.mjpg
+US,Coos Bay,http://47.34.145.116:80/mjpg/video.mjpg
+US,Coos Bay,http://12.166.87.84:80/jpg/image.jpg?COUNTER
+US,Coos Bay,http://47.34.155.105:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Coos Bay,http://75.187.145.101:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Coos Bay,http://71.11.65.100:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Fitchburg,http://72.220.146.107:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Fitchburg,http://72.35.201.107:80/SnapshotJPEG?Resolution=640x480&amp;amp;Quality=Clarity&amp;amp;COUNTER
+US,Fitchburg,http://99.107.188.107:83/mjpg/video.mjpg
+US,Fitchburg,http://98.191.118.83:80/jpgmulreq/1/image.jpg?key=1516975535684&amp;lq=1&amp;COUNTER
+US,Fitchburg,http://4.79.8.74:8080/cgi-bin/viewer/video.jpg?r=COUNTER
+US,Fitchburg,http://166.239.63.83:8081/-wvhttp-01-/GetOneShot?image_size=640x480&amp;frame_count=1000000000
+US,Kansas City,http://67.249.181.85:8080/cam_1.cgi
+US,Kansas City,http://71.88.146.95:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Kansas City,http://172.75.125.85:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Kansas City,http://171.67.198.94:80/oneshotimage1?COUNTER
+US,Kansas City,http://162.191.230.77:81/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Kansas City,http://136.33.182.75:8082/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+US,Southern Pines,http://192.240.54.80:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Southern Pines,http://172.6.108.75:8080/?action=stream
+US,Southern Pines,http://130.44.168.72:8080/?action=stream
+US,Southern Pines,http://68.170.115.77:50001/SnapshotJPEG?Resolution=640x480&amp;amp;Quality=Clarity&amp;amp;COUNTER
+US,Southern Pines,http://205.213.24.70:9000/mjpg/video.mjpg
+US,Southern Pines,http://65.191.167.68:80/mjpeg.cgi
+US,Williamson,http://172.118.130.68:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Williamson,http://134.114.145.35:8080/?action=stream
+US,Williamson,http://65.131.193.65:8001/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+US,Williamson,http://65.131.193.65:8000/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+US,Williamson,http://162.186.253.54:8081/-wvhttp-01-/GetOneShot?image_size=640x480&amp;frame_count=1000000000
+US,Williamson,http://173.81.219.36:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Boca Raton,http://100.15.243.36:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Boca Raton,http://8.40.200.56:60001/SnapshotJPEG?Resolution=640x480&amp;amp;Quality=Clarity&amp;amp;COUNTER
+US,Boca Raton,http://47.196.217.43:8084/GetData.cgi?CH=1
+US,Boca Raton,http://47.196.217.43:8082/GetData.cgi?CH=1
+US,Boca Raton,http://47.196.217.43:8081/GetData.cgi?CH=1
+US,Boca Raton,http://71.196.33.47:8081/cgi-bin/viewer/video.jpg?r=COUNTER
+US,Johnson City,http://100.37.229.45:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Johnson City,http://69.132.20.38:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Johnson City,http://47.196.205.43:8080/?action=stream
+US,Johnson City,http://166.252.52.47:83/mjpg/video.mjpg
+US,Johnson City,http://166.252.52.47:91/mjpg/video.mjpg
+US,Johnson City,http://67.234.81.32:81/jpgmulreq/1/image.jpg?key=1516975535684&amp;lq=1&amp;COUNTER
+US,New York City,http://23.240.179.44:8888/mjpeg.cgi
+US,New York City,http://98.150.148.43:1024/-wvhttp-01-/GetOneShot?image_size=640x480&amp;frame_count=1000000000
+US,New York City,http://73.205.50.41:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,New York City,http://71.181.80.45:50001/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+US,New York City,http://209.188.73.43:50000/SnapshotJPEG?Resolution=640x480&amp;amp;Quality=Clarity&amp;amp;COUNTER
+US,New York City,http://184.153.48.37:83/mjpg/video.mjpg
+US,Naples,http://71.210.111.32:80/mjpg/video.mjpg
+US,Naples,http://184.153.48.37:81/mjpg/video.mjpg
+US,Naples,http://184.153.48.37:82/mjpg/video.mjpg
+US,Naples,http://68.132.149.19:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Naples,http://72.176.138.20:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Naples,http://73.107.45.19:8080/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+US,Durand,http://97.70.38.29:8080/?action=stream
+US,Durand,http://199.241.220.214:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Durand,http://96.45.98.178:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Durand,http://173.61.1.2:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Durand,http://69.147.210.214:50000/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+US,Durand,http://69.147.210.214:80/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+US,San Diego,http://173.219.136.212:80/mjpg/video.mjpg
+US,San Diego,http://166.159.202.207:8000/-wvhttp-01-/GetOneShot?image_size=640x480&amp;frame_count=1000000000
+US,San Diego,http://162.191.127.202:82/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,San Diego,http://24.100.190.213:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,San Diego,http://173.17.233.204:8080/?action=stream
+US,San Diego,http://76.206.201.204:80/img/video.mjpeg
+US,Orlando,http://71.198.71.213:8080/cgi-bin/viewer/video.jpg?r=COUNTER
+US,Orlando,http://184.63.249.206:8001/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Orlando,http://166.169.175.173:81/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Orlando,http://104.51.46.179:81/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+US,Orlando,http://47.151.23.192:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Orlando,http://71.214.5.204:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Staten Island,http://73.112.162.196:80/mjpeg.cgi
+US,Staten Island,http://67.247.139.194:8080/-wvhttp-01-/GetOneShot?image_size=640x480&amp;frame_count=1000000000
+US,Staten Island,http://47.185.217.194:90/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Staten Island,http://72.181.136.196:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Staten Island,http://72.24.253.198:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Staten Island,http://68.175.20.173:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Los Angeles,http://72.182.54.195:8080/mjpg/video.mjpg
+US,Los Angeles,http://73.209.112.182:8090/mjpg/video.mjpg
+US,Los Angeles,http://73.233.244.176:8080/shot.jpg?rnd=654321
+US,Los Angeles,http://159.118.43.195:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+US,Los Angeles,http://67.85.154.181:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Los Angeles,http://75.83.130.160:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Philadelphia,http://216.213.7.175:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Philadelphia,http://71.197.217.189:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Philadelphia,http://67.253.199.185:80/oneshotimage1?COUNTER
+US,Philadelphia,http://162.204.34.182:80/mjpg/video.mjpg
+US,Philadelphia,http://73.7.21.157:8888/out.jpg?q=30&amp;id=0.1317044913727916&amp;r=COUNTER
+US,Philadelphia,http://71.175.107.172:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Wichita,http://209.102.242.181:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Wichita,http://100.40.77.157:80/SnapshotJPEG?Resolution=640x480&amp;amp;Quality=Clarity&amp;amp;COUNTER
+US,Wichita,http://69.77.133.159:8080/cgi-bin/viewer/video.jpg?r=COUNTER
+US,Wichita,http://162.191.123.161:81/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Wichita,http://67.21.181.169:83/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+US,Wichita,http://72.209.131.159:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Newark,http://132.239.93.167:8080/?action=stream
+US,Newark,http://73.223.148.159:8080/SnapshotJPEG?Resolution=640x480&amp;amp;Quality=Clarity&amp;amp;COUNTER
+US,Newark,http://68.184.228.168:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+US,Newark,http://72.87.74.106:8084/mjpg/video.mjpg
+US,Newark,http://172.88.6.156:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Newark,http://71.125.95.149:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Oyster Bay,http://98.165.136.147:81/SnapshotJPEG?Resolution=640x480&amp;amp;Quality=Clarity&amp;amp;COUNTER
+US,Oyster Bay,http://166.146.177.148:81/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Oyster Bay,http://173.25.194.148:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+US,Oyster Bay,http://68.111.211.148:8080/?action=stream
+US,Oyster Bay,http://50.89.35.106:88/mjpg/video.mjpg
+US,Oyster Bay,http://148.74.2.105:85/jpgmulreq/1/image.jpg?key=1516975535684&amp;lq=1&amp;COUNTER
+US,Orlando,http://72.234.244.140:1024/image?speed=0
+US,Orlando,http://96.42.254.104:8888/out.jpg?q=30&amp;id=0.1317044913727916&amp;r=COUNTER
+US,Orlando,http://100.1.67.134:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Orlando,http://66.44.241.103:8090/videostream.cgi?user=admin&amp;pwd=
+US,Orlando,http://104.136.119.132:8081/mjpg/video.mjpg
+US,Orlando,http://74.218.237.126:88/cgi-bin/CGIProxy.fcgi?cmd=snapPicture2&amp;usr=admin&amp;pwd=&amp;COUNTER
+US,Frankenmuth,http://72.208.66.126:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Frankenmuth,http://97.118.115.118:83/__live.jpg?&amp;&amp;&amp;COUNTER
+US,Frankenmuth,http://68.108.72.111:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Frankenmuth,http://98.207.98.113:1024/img/video.mjpeg
+US,Frankenmuth,http://100.38.155.18:8080/mjpg/video.mjpg
+US,Frankenmuth,http://66.84.101.99:80/mjpg/video.mjpg
+US,Holland,http://24.47.99.94:80/mjpg/video.mjpg
+US,Holland,http://73.195.213.117:80/cgi-bin/viewer/video.jpg?r=COUNTER
+US,Holland,http://100.1.110.110:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Holland,http://24.116.187.111:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Holland,http://166.141.81.96:8081/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+US,Holland,http://24.236.193.109:1024/img/video.mjpeg
+US,Bellevue,http://166.239.143.98:8081/-wvhttp-01-/GetOneShot?image_size=640x480&amp;frame_count=1000000000
+US,Bellevue,http://99.46.254.19:8888/out.jpg?q=30&amp;id=0.1317044913727916&amp;r=COUNTER
+US,Bellevue,http://73.133.141.94:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Bellevue,http://142.129.194.90:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Bellevue,http://169.139.176.90:80/-wvhttp-01-/GetOneShot?image_size=640x480&amp;frame_count=1000000000
+US,Bellevue,http://162.191.83.82:82/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Cambridge,http://162.191.83.82:81/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+US,Cambridge,http://172.100.187.79:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+US,Cambridge,http://104.32.152.81:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Cambridge,http://72.228.183.81:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Cambridge,http://174.21.67.69:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+US,Cambridge,http://173.48.62.58:8000/__live.jpg?&amp;&amp;&amp;COUNTER
+US,Fenton,http://73.238.95.69:80/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Fenton,http://173.66.82.68:8090/mjpg/video.mjpg
+US,Fenton,http://99.172.0.26:8888/out.jpg?q=30&amp;id=0.1317044913727916&amp;r=COUNTER
+US,Fenton,http://162.191.186.59:81/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Fenton,http://75.170.8.56:82/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+US,Fenton,http://75.134.160.54:6002/SnapshotJPEG?Resolution=640x480&amp;amp;Quality=Clarity&amp;amp;COUNTER
+US,Poughkeepsie,http://50.110.85.57:80/img/video.mjpeg
+US,Poughkeepsie,http://75.97.212.40:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Poughkeepsie,http://73.123.69.55:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Poughkeepsie,http://67.187.195.39:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Poughkeepsie,http://100.38.117.33:8082/img/video.mjpeg
+US,Poughkeepsie,http://100.38.117.33:8081/img/video.mjpeg
+US,Detroit,http://35.142.9.32:82/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Detroit,http://70.125.13.25:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Detroit,http://198.62.181.16:8082/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Detroit,http://97.114.187.39:80/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Detroit,http://76.108.132.27:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Detroit,http://166.166.129.11:8081/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+US,New York City,http://75.144.87.12:80/mjpg/video.mjpg
+US,New York City,http://24.213.59.14:80/mjpg/video.mjpg
+US,New York City,http://71.1.28.9:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,New York City,http://199.123.0.6:80/mjpg/video.mjpg
+US,New York City,http://73.158.64.5:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,New York City,http://166.254.171.217:8081/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+US,Nashville,http://173.215.26.217:80/jpg/image.jpg?COUNTER
+US,Nashville,http://75.90.191.216:83/cgi-bin/viewer/video.jpg?r=COUNTER
+US,Nashville,http://76.166.144.217:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Nashville,http://72.194.104.200:8000/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Nashville,http://8.40.189.193:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+US,Nashville,http://98.193.240.206:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Fort Worth,http://162.191.132.184:81/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Fort Worth,http://73.179.48.179:80/jpg/image.jpg?COUNTER
+US,Fort Worth,http://50.251.159.181:81/mjpg/video.mjpg
+US,Fort Worth,http://64.179.180.162:80/mjpeg.cgi
+US,Fort Worth,http://68.3.61.129:8080/cgi-bin/viewer/video.jpg?r=COUNTER
+US,Fort Worth,http://174.82.66.177:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Atlanta,http://97.101.65.177:80/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Atlanta,http://68.225.162.168:8081/?action=stream
+US,Atlanta,http://63.40.149.166:80/mjpg/video.mjpg
+US,Atlanta,http://69.77.133.159:80/cgi-bin/viewer/video.jpg?r=COUNTER
+US,Atlanta,http://66.242.36.164:80/snap.jpg?JpegSize=M&amp;JpegCam=1&amp;r=COUNTER
+US,Atlanta,http://24.125.59.169:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Logansport,http://65.191.131.142:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Logansport,http://47.6.146.142:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Logansport,http://75.139.210.157:8082/mjpg/video.mjpg
+US,Logansport,http://68.104.93.128:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Logansport,http://98.227.56.144:8082/?action=stream
+US,Logansport,http://98.227.56.144:8083/?action=stream
+US,Edgewood,http://98.227.56.144:8081/?action=stream
+US,Edgewood,http://98.227.56.144:8080/?action=stream
+US,Edgewood,http://98.227.56.144:8084/?action=stream
+US,Edgewood,http://74.75.232.145:80/SnapshotJPEG?Resolution=640x480&amp;amp;Quality=Clarity&amp;amp;COUNTER
+US,Edgewood,http://74.75.232.145:50000/SnapshotJPEG?Resolution=640x480&amp;amp;Quality=Clarity&amp;amp;COUNTER
+US,Edgewood,http://74.132.245.130:8080/cgi-bin/viewer/video.jpg?r=COUNTER
+US,Redmond,http://68.3.235.119:8081/?action=stream
+US,Redmond,http://136.32.236.123:80/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+US,Redmond,http://162.17.65.126:8082/mjpg/video.mjpg
+US,Redmond,http://50.5.239.130:80/mjpg/video.mjpg
+US,Redmond,http://50.5.239.130:81/mjpg/video.mjpg
+US,Redmond,http://208.100.184.123:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Bellevue,http://47.44.156.124:8082/mjpg/video.mjpg
+US,Bellevue,http://74.129.234.105:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+US,Bellevue,http://166.140.128.86:80/mjpg/video.mjpg
+US,Bellevue,http://71.172.178.31:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+US,Bellevue,http://71.207.48.52:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Bellevue,http://162.191.164.58:81/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+US,Carbondale,http://8.40.60.53:5000/SnapshotJPEG?Resolution=640x480&amp;amp;Quality=Clarity&amp;amp;COUNTER
+US,Carbondale,http://68.54.117.52:90/jpgmulreq/1/image.jpg?key=1516975535684&amp;lq=1&amp;COUNTER
+US,Carbondale,http://97.91.28.51:8000/__live.jpg?&amp;&amp;&amp;COUNTER
+US,Carbondale,http://98.156.77.37:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Carbondale,http://98.151.150.58:10000/SnapshotJPEG?Resolution=640x480&amp;amp;Quality=Clarity&amp;amp;COUNTER
+US,Carbondale,http://72.28.4.52:80/SnapshotJPEG?Resolution=640x480&amp;amp;Quality=Clarity&amp;amp;COUNTER
+US,Bellevue,http://216.252.195.39:80/snap.jpg?JpegSize=M&amp;JpegCam=1&amp;r=COUNTER
+US,Bellevue,http://68.103.56.37:8090/?action=stream
+US,Bellevue,http://24.45.60.35:8000/mjpg/video.mjpg
+US,Bellevue,http://166.230.76.32:80/mjpg/video.mjpg
+US,Bellevue,http://162.191.204.21:81/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Bellevue,http://162.191.204.21:82/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Eau Claire,http://98.30.45.29:8080/?action=stream
+US,Eau Claire,http://166.141.109.25:8081/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+US,Eau Claire,http://209.103.207.8:81/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Eau Claire,http://216.87.229.7:8082/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+US,Eau Claire,http://216.87.229.7:8081/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+US,Eau Claire,http://97.90.228.7:80/mjpg/video.mjpg
+US,Audubon,http://104.251.139.16:8080/mjpg/video.mjpg
+US,Audubon,http://72.234.167.4:80/jpgmulreq/1/image.jpg?key=1516975535684&amp;lq=1&amp;COUNTER
+US,Audubon,http://166.155.126.4:8082/-wvhttp-01-/GetOneShot?image_size=640x480&amp;frame_count=1000000000
+US,Audubon,http://173.26.78.7:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+US,Audubon,http://184.81.249.219:8080/?action=stream
+US,Audubon,http://73.80.92.10:50000/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+US,Palisades Park,http://35.131.189.218:81/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+US,Palisades Park,http://71.88.167.216:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Palisades Park,http://104.222.80.184:50000/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+US,Palisades Park,http://206.192.224.189:8080/cgi-bin/viewer/video.jpg?r=COUNTER
+US,Palisades Park,http://216.243.5.218:8080/cgi-bin/viewer/video.jpg?r=COUNTER
+US,Palisades Park,http://184.152.98.212:8080/?action=stream
+US,Houston,http://63.140.122.174:80/mjpeg.cgi
+US,Houston,http://69.174.137.200:8081/oneshotimage1?COUNTER
+US,Houston,http://107.3.190.178:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Houston,http://24.116.176.179:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Houston,http://73.178.80.188:80/videostream.cgi?user=admin&amp;pwd=
+US,Houston,http://166.145.41.186:8080/-wvhttp-01-/GetOneShot?image_size=640x480&amp;frame_count=1000000000
+US,Belleview,http://166.168.156.177:81/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Belleview,http://166.168.156.177:82/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Belleview,http://216.98.196.172:81/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+US,Belleview,http://108.28.108.160:80/jpgmulreq/1/image.jpg?key=1516975535684&amp;lq=1&amp;COUNTER
+US,Belleview,http://162.191.105.153:82/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Belleview,http://142.197.194.168:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,New York City,http://96.230.14.154:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,New York City,http://98.25.17.150:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,New York City,http://98.199.86.124:10000/snap.jpg?JpegSize=M&amp;JpegCam=1&amp;r=COUNTER
+US,New York City,http://70.100.14.135:89/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+US,New York City,http://24.101.55.145:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,New York City,http://160.39.231.144:8080/?action=stream
+US,Silver Spring,http://174.141.217.139:8081/cgi-bin/viewer/video.jpg?r=COUNTER
+US,Silver Spring,http://142.197.164.134:8080/out.jpg?q=30&amp;id=0.1317044913727916&amp;r=COUNTER
+US,Silver Spring,http://142.197.164.134:8000/out.jpg?q=30&amp;id=0.1317044913727916&amp;r=COUNTER
+US,Silver Spring,http://162.191.222.121:81/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Silver Spring,http://73.122.207.134:8080/shot.jpg?rnd=654321
+US,Silver Spring,http://71.178.49.119:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Phoenix,http://174.54.186.139:8080/?action=stream
+US,Phoenix,http://72.36.8.115:80/mjpg/video.mjpg
+US,Phoenix,http://75.104.16.91:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+US,Phoenix,http://47.6.201.75:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Phoenix,http://74.133.201.115:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Phoenix,http://98.174.242.117:80/mjpg/video.mjpg
+US,San Jose,http://75.82.64.106:80/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,San Jose,http://200.123.197.106:8083/snap.jpg?JpegSize=M&amp;JpegCam=1&amp;r=COUNTER
+US,San Jose,http://200.123.197.106:8082/snap.jpg?JpegSize=M&amp;JpegCam=1&amp;r=COUNTER
+US,San Jose,http://200.123.197.102:8082/snap.jpg?JpegSize=M&amp;JpegCam=1&amp;r=COUNTER
+US,San Jose,http://200.123.197.106:8084/snap.jpg?JpegSize=M&amp;JpegCam=1&amp;r=COUNTER
+US,San Jose,http://200.123.197.102:8084/snap.jpg?JpegSize=M&amp;JpegCam=1&amp;r=COUNTER
+US,Palo Alto,http://70.124.202.105:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Palo Alto,http://24.61.155.80:8080/mjpg/video.mjpg
+US,Palo Alto,http://173.79.101.87:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Palo Alto,http://108.84.74.93:50000/SnapshotJPEG?Resolution=640x480&amp;amp;Quality=Clarity&amp;amp;COUNTER
+US,Palo Alto,http://174.49.212.92:80/SnapshotJPEG?Resolution=640x480&amp;amp;Quality=Clarity&amp;amp;COUNTER
+US,Palo Alto,http://73.15.96.76:8080/cgi-bin/viewer/video.jpg?r=COUNTER
+US,Pomona,http://204.10.232.85:80/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Pomona,http://66.171.29.67:8080/?action=stream
+US,Pomona,http://75.182.203.186:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Pomona,http://24.125.171.72:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Pomona,http://50.120.222.63:3000/mjpg/video.mjpg
+US,Pomona,http://47.181.86.62:8082/mjpg/video.mjpg
+US,Reynoldsburg,http://45.43.111.45:8001/jpg/image.jpg?COUNTER
+US,Reynoldsburg,http://99.8.153.36:82/__live.jpg?&amp;&amp;&amp;COUNTER
+US,Reynoldsburg,http://107.204.156.29:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+US,Reynoldsburg,http://73.26.208.25:8888/out.jpg?q=30&amp;id=0.1317044913727916&amp;r=COUNTER
+US,Reynoldsburg,http://98.174.114.23:80/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Reynoldsburg,http://74.199.123.23:8080/?action=stream
+US,Bedminster,http://69.141.124.26:80/img/video.mjpeg
+US,Bedminster,http://162.191.209.15:81/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Bedminster,http://216.186.236.14:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Bedminster,http://104.175.0.15:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Bedminster,http://166.247.243.14:81/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+US,Bedminster,http://166.247.243.13:81/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+US,Wausau,http://166.247.243.14:80/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+US,Wausau,http://166.247.243.13:80/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+US,Wausau,http://68.161.176.13:50000/SnapshotJPEG?Resolution=640x480&amp;amp;Quality=Clarity&amp;amp;COUNTER
+US,Wausau,http://166.155.242.13:80/mjpg/video.mjpg
+US,Wausau,http://166.252.152.10:81/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Wausau,http://184.63.136.6:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Philadelphia,http://136.183.56.13:8080/?action=stream
+US,Philadelphia,http://130.44.137.13:81/axis-cgi/mjpg/video.cgi?camera=&amp;resolution=640x480
+US,Philadelphia,http://75.144.87.13:80/mjpg/video.mjpg
+US,Philadelphia,http://64.82.172.216:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Philadelphia,http://73.165.22.4:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Philadelphia,http://141.158.51.217:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Atlanta,http://216.24.79.220:80/img/video.mjpeg
+US,Atlanta,http://71.210.203.217:8081/img/video.mjpeg
+US,Atlanta,http://166.169.175.194:82/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Atlanta,http://166.169.175.194:81/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Atlanta,http://67.76.197.198:81/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+US,Atlanta,http://73.184.216.197:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Baton Rouge,http://74.65.170.193:80/img/video.mjpeg
+US,Baton Rouge,http://70.172.51.190:8080/mjpeg.cgi
+US,Baton Rouge,http://166.159.40.194:8081/-wvhttp-01-/GetOneShot?image_size=640x480&amp;frame_count=1000000000
+US,Baton Rouge,http://159.48.38.193:80/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Baton Rouge,http://162.191.93.194:82/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Baton Rouge,http://98.181.58.198:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Whitmore Lake,http://166.130.76.191:80/mjpg/video.mjpg
+US,Whitmore Lake,http://166.153.91.202:80/mjpg/video.mjpg
+US,Whitmore Lake,http://24.35.2.148:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+US,Whitmore Lake,http://74.64.240.152:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Whitmore Lake,http://152.26.35.144:80/oneshotimage1?COUNTER
+US,Whitmore Lake,http://97.85.43.148:1024/img/video.mjpeg
+US,Bellevue,http://172.102.168.143:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+US,Bellevue,http://207.174.249.104:8080/cgi-bin/viewer/video.jpg?r=COUNTER
+US,Bellevue,http://173.167.206.106:8200/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Bellevue,http://63.41.44.107:81/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Bellevue,http://67.212.41.105:88/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+US,Bellevue,http://162.191.76.107:8080/oneshotimage1?COUNTER
+US,Houston,http://64.186.75.103:8081/mjpg/video.mjpg
+US,Houston,http://162.191.148.104:81/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Houston,http://75.66.114.88:8080/cgi-bin/viewer/video.jpg?r=COUNTER
+US,Houston,http://68.44.143.88:8888/out.jpg?q=30&amp;id=0.1317044913727916&amp;r=COUNTER
+US,Houston,http://184.21.185.86:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Houston,http://166.168.200.75:82/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Rugby,http://73.123.64.72:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Rugby,http://73.168.27.74:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Rugby,http://166.141.39.65:8081/-wvhttp-01-/GetOneShot?image_size=640x480&amp;frame_count=1000000000
+US,Rugby,http://173.19.144.65:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+US,Rugby,http://66.172.238.65:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Rugby,http://76.10.97.78:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Snowflake,http://173.69.27.29:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Snowflake,http://68.44.96.46:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Snowflake,http://162.191.209.15:82/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Snowflake,http://166.252.152.22:81/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+US,Snowflake,http://69.141.124.26:1024/img/video.mjpeg
+US,Snowflake,http://24.117.250.22:80/mjpg/video.mjpg
+US,Kihei,http://166.142.246.1:8081/-wvhttp-01-/GetOneShot?image_size=640x480&amp;frame_count=1000000000
+US,Kihei,http://24.160.116.211:8888/out.jpg?q=30&amp;id=0.1317044913727916&amp;r=COUNTER
+US,Kihei,http://50.238.139.212:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+US,Kihei,http://96.42.172.207:1024/img/video.mjpeg
+US,Kihei,http://98.157.120.193:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Kihei,http://98.155.82.190:80/image?speed=0
+US,Greenville,http://71.95.53.196:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Greenville,http://73.206.54.172:1024/img/video.mjpeg
+US,Greenville,http://162.191.100.183:81/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Greenville,http://162.191.100.183:82/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Greenville,http://45.46.151.31:8080/cam_1.cgi
+US,Greenville,http://96.33.81.180:50001/SnapshotJPEG?Resolution=640x480&amp;amp;Quality=Clarity&amp;amp;COUNTER
+US,Savannah,http://68.3.210.170:3000/mjpg/video.mjpg
+US,Savannah,http://24.180.150.157:83/jpgmulreq/1/image.jpg?key=1516975535684&amp;lq=1&amp;COUNTER
+US,Savannah,http://162.191.105.153:81/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Savannah,http://162.191.120.150:82/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Savannah,http://67.167.219.204:8081/mjpg/video.mjpg
+US,Savannah,http://73.182.17.160:8080/mjpg/video.mjpg
+US,Asheville,http://67.167.219.204:8080/mjpg/video.mjpg
+US,Asheville,http://198.29.39.143:80/cgi-bin/viewer/video.jpg?r=COUNTER
+US,Asheville,http://173.81.92.139:83/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+US,Asheville,http://108.6.225.157:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Asheville,http://99.171.140.143:8080/?action=stream
+US,Asheville,http://47.44.231.138:91/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+US,Buffalo,http://168.158.10.134:8080/?action=stream
+US,Buffalo,http://24.22.238.136:8080/?action=stream
+US,Buffalo,http://24.29.61.113:8084/cgi-bin/viewer/video.jpg?r=COUNTER
+US,Buffalo,http://162.191.226.103:81/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Buffalo,http://166.249.185.111:5000/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Buffalo,http://72.255.177.131:2000/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+US,Bellevue,http://64.190.226.114:80/mjpg/video.mjpg
+US,Bellevue,http://166.246.246.97:80/-wvhttp-01-/GetOneShot?image_size=640x480&amp;frame_count=1000000000
+US,Bellevue,http://50.242.8.33:8000/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+US,Bellevue,http://184.91.54.85:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Bellevue,http://162.191.150.111:81/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+US,Bellevue,http://162.191.150.111:82/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+US,Orlando,http://75.67.213.87:8001/-wvhttp-01-/GetOneShot?image_size=640x480&amp;frame_count=1000000000
+US,Orlando,http://98.122.141.204:8888/out.jpg?q=30&amp;id=0.1317044913727916&amp;r=COUNTER
+US,Orlando,http://50.126.213.96:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Orlando,http://72.81.170.97:80/img/video.mjpeg
+US,Orlando,http://68.104.211.16:88/img/video.mjpeg
+US,Orlando,http://67.79.173.51:80/mjpg/video.mjpg
+US,Sioux Center,http://66.229.185.25:8080/cgi-bin/viewer/video.jpg?r=COUNTER
+US,Sioux Center,http://206.109.189.69:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Sioux Center,http://68.54.117.52:80/jpgmulreq/1/image.jpg?key=1516975535684&amp;lq=1&amp;COUNTER
+US,Sioux Center,http://74.79.252.57:80/cgi-bin/viewer/video.jpg?r=COUNTER
+US,Sioux Center,http://96.248.104.205:8080/?action=stream
+US,Sioux Center,http://72.46.180.58:80/mjpg/video.mjpg
+US,Santa Ana,http://162.191.210.45:82/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Santa Ana,http://162.191.210.45:81/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Santa Ana,http://97.76.18.35:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+US,Santa Ana,http://199.47.113.55:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Santa Ana,http://98.186.161.20:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Santa Ana,http://76.170.16.34:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Detroit,http://73.15.29.35:8080/?action=stream
+US,Detroit,http://69.143.213.26:5000/SnapshotJPEG?Resolution=640x480&amp;amp;Quality=Clarity&amp;amp;COUNTER
+US,Detroit,http://162.191.49.45:8090/mjpg/video.mjpg
+US,Detroit,http://47.221.85.47:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Detroit,http://98.223.77.34:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Detroit,http://166.168.100.28:82/jpg/image.jpg?COUNTER
+US,Leominster,http://166.241.194.19:82/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Leominster,http://206.74.141.22:8081/mjpg/video.mjpg
+US,Leominster,http://97.88.3.4:80/mjpeg.cgi
+US,Leominster,http://97.103.210.0:8090/cgi-bin/viewer/video.jpg?r=COUNTER
+US,Leominster,http://24.193.65.18:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+US,Leominster,http://96.237.181.180:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Kansas City,http://74.77.228.0:8080/img/video.mjpeg
+US,Kansas City,http://74.88.123.9:8081/mjpg/video.mjpg
+US,Kansas City,http://75.139.90.2:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Kansas City,http://166.166.100.208:8001/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Kansas City,http://24.191.123.207:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Kansas City,http://136.35.190.207:8080/?action=stream
+US,Bellevue,http://107.131.137.186:81/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+US,Bellevue,http://71.72.36.206:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+US,Bellevue,http://24.197.199.194:50001/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+US,Bellevue,http://209.196.164.189:80/oneshotimage1?COUNTER
+US,Bellevue,http://66.215.128.164:81/jpgmulreq/1/image.jpg?key=1516975535684&amp;lq=1&amp;COUNTER
+US,Bellevue,http://162.191.93.191:81/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Marietta,http://162.191.93.194:81/cgi-bin/faststream.jpg?stream=half&amp;fps=15&amp;rand=COUNTER
+US,Marietta,http://63.42.42.191:8082/snap.jpg?JpegSize=M&amp;JpegCam=1&amp;r=COUNTER
+US,Marietta,http://63.42.42.191:8081/snap.jpg?JpegSize=M&amp;JpegCam=1&amp;r=COUNTER
+US,Marietta,http://73.18.145.188:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+US,Marietta,http://97.103.98.188:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+US,Marietta,http://50.213.242.193:80/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+BR,Rio De Janeiro,http://143.106.161.120:8081/?action=stream
+BR,Rio De Janeiro,http://131.100.239.194:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Rio De Janeiro,http://143.106.161.110:80/mjpg/video.mjpg
+BR,Rio De Janeiro,http://191.241.235.43:80/mjpg/video.mjpg
+BR,Rio De Janeiro,http://150.161.41.3:80/mjpg/video.mjpg
+BR,Rio De Janeiro,http://152.92.155.15:80/mjpg/video.mjpg
+BR,Campinas,http://187.121.105.148:91/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Campinas,http://179.145.30.148:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+BR,Campinas,http://177.92.36.140:8083/cgi-bin/viewer/video.jpg?r=COUNTER
+BR,Campinas,http://177.23.184.148:89/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Campinas,http://201.67.123.136:8080/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Campinas,http://179.225.239.102:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+BR,Atibaia,http://168.232.122.111:91/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Atibaia,http://152.238.205.126:8083/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Atibaia,http://168.232.122.111:90/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Atibaia,http://187.22.154.100:1024/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Atibaia,http://177.65.179.112:8080/?action=stream
+BR,Atibaia,http://189.14.81.58:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+BR,Sao Paulo,http://179.159.243.50:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+BR,Sao Paulo,http://179.235.224.7:8081/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Sao Paulo,http://187.37.250.13:85/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+BR,Sao Paulo,http://187.49.243.7:8080/mjpg/video.mjpg
+BR,Sao Paulo,http://177.10.208.14:8081/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Sao Paulo,http://201.75.146.207:8080/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+BR,Belo Horizonte,http://177.143.226.196:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+BR,Belo Horizonte,http://191.184.144.197:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+BR,Belo Horizonte,http://186.221.96.120:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+BR,Belo Horizonte,http://45.166.21.173:8090/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Belo Horizonte,http://177.189.252.111:8888/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+BR,Belo Horizonte,http://189.61.185.130:80/videostream.cgi?user=admin&amp;pwd=
+BR,Belo Horizonte,http://179.108.32.106:80/cgi-bin/viewer/video.jpg?r=COUNTER
+BR,Belo Horizonte,http://45.163.200.99:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Belo Horizonte,http://191.182.109.83:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+BR,Belo Horizonte,http://177.183.82.42:8082/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Belo Horizonte,http://179.108.32.216:80/cgi-bin/viewer/video.jpg?r=COUNTER
+BR,Belo Horizonte,http://179.108.34.207:80/cgi-bin/viewer/video.jpg?r=COUNTER
+BR,Aparecida,http://191.209.60.199:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Aparecida,http://177.101.7.176:83/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Aparecida,http://179.208.89.185:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+BR,Aparecida,http://181.221.247.160:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+BR,Aparecida,http://189.34.137.153:8001/mjpg/video.mjpg
+BR,Aparecida,http://177.193.125.132:8000/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Manaus,http://189.61.185.130:84/videostream.cgi?user=admin&amp;pwd=
+BR,Manaus,http://189.55.233.75:80/mjpg/video.mjpg
+BR,Manaus,http://177.87.254.68:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+BR,Manaus,http://177.135.250.17:8888/mjpg/video.mjpg
+BR,Manaus,http://189.103.247.155:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+BR,Manaus,http://179.222.74.145:82/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Rio De Janeiro,http://189.81.79.134:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Rio De Janeiro,http://177.64.145.131:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+BR,Rio De Janeiro,http://201.52.80.128:82/img/video.mjpeg
+BR,Rio De Janeiro,http://186.225.62.62:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Rio De Janeiro,http://138.185.128.63:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Rio De Janeiro,http://177.192.131.195:81/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Sao Paulo,http://187.183.76.151:8001/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Sao Paulo,http://186.237.14.150:8081/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Sao Paulo,http://150.162.102.140:8080/?action=stream
+BR,Sao Paulo,http://177.37.176.135:80/mjpg/video.mjpg
+BR,Sao Paulo,http://45.181.133.46:8082/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Sao Paulo,http://200.145.138.22:8082/cam_1.cgi
+BR,Cassia,http://45.228.105.0:8080/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Cassia,http://177.52.31.193:8081/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Cassia,http://177.34.218.144:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+BR,Cassia,http://177.81.117.77:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+BR,Cassia,http://189.90.4.66:8081/cgi-bin/camera?resolution=640&amp;amp;quality=1&amp;amp;Language=0&amp;amp;COUNTER
+BR,Cassia,http://191.241.161.64:8080/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Sao Paulo,http://168.0.73.162:81/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Sao Paulo,http://177.136.215.152:8000/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Sao Paulo,http://131.161.20.71:83/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Sao Paulo,http://179.174.58.42:8080/jpgmulreq/1/image.jpg?key=1516975535684&amp;lq=1&amp;COUNTER
+BR,Sao Paulo,http://138.118.87.9:8082/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Sao Paulo,http://187.107.82.207:91/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Rio De Janeiro,http://189.81.209.166:8080/cgi-bin/viewer/video.jpg?r=COUNTER
+BR,Rio De Janeiro,http://45.5.224.113:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Rio De Janeiro,http://179.214.98.111:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+BR,Rio De Janeiro,http://179.108.32.69:80/cgi-bin/viewer/video.jpg?r=COUNTER
+BR,Rio De Janeiro,http://187.107.119.6:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+BR,Rio De Janeiro,http://187.111.98.52:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Caxias Do Sul,http://189.63.219.43:8000/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Caxias Do Sul,http://189.63.219.43:8001/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Caxias Do Sul,http://177.23.191.172:88/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Caxias Do Sul,http://187.123.144.115:8081/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Caxias Do Sul,http://177.21.44.97:8001/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Caxias Do Sul,http://186.195.23.77:8001/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Belo Horizonte,http://187.19.204.20:80/mjpg/video.mjpg
+BR,Belo Horizonte,http://187.95.63.29:2000/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Belo Horizonte,http://191.185.148.148:5000/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Belo Horizonte,http://187.19.166.182:80/mjpg/video.mjpg
+BR,Belo Horizonte,http://177.8.49.130:8081/jpgmulreq/1/image.jpg?key=1516975535684&amp;lq=1&amp;COUNTER
+BR,Belo Horizonte,http://179.108.32.85:80/cgi-bin/viewer/video.jpg?r=COUNTER
+BR,Fortaleza,http://177.66.29.85:8080/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Fortaleza,http://168.232.12.58:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Fortaleza,http://138.219.69.57:90/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Fortaleza,http://138.99.254.26:8090/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Fortaleza,http://177.104.209.207:10000/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Fortaleza,http://177.200.95.33:8090/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Sorocaba,http://177.0.209.15:8081/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Sorocaba,http://187.63.20.189:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+BR,Sorocaba,http://187.63.20.189:8000/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+BR,Sorocaba,http://179.108.36.144:80/cgi-bin/viewer/video.jpg?r=COUNTER
+BR,Sorocaba,http://189.32.220.75:8083/snap.jpg?JpegSize=M&amp;JpegCam=1&amp;r=COUNTER
+BR,Sorocaba,http://189.32.220.75:8084/snap.jpg?JpegSize=M&amp;JpegCam=1&amp;r=COUNTER
+BR,Recife,http://179.108.32.64:80/cgi-bin/viewer/video.jpg?r=COUNTER
+BR,Recife,http://168.227.225.74:85/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Recife,http://200.77.179.7:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
+BR,Recife,http://200.172.91.2:8082/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Recife,http://186.226.178.197:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Recife,http://128.201.95.148:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Itapirapua,http://143.0.202.108:8080/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Itapirapua,http://131.108.118.119:9000/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Itapirapua,http://192.12.115.106:8001/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Itapirapua,http://179.233.129.52:80/jpgmulreq/1/image.jpg?key=1516975535684&amp;lq=1&amp;COUNTER
+BR,Itapirapua,http://200.250.31.40:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Itapirapua,http://45.234.64.52:8000/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Belo Horizonte,http://179.191.17.24:82/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Belo Horizonte,http://138.118.87.9:8081/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Belo Horizonte,http://138.97.64.18:8080/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Belo Horizonte,http://131.161.219.221:8080/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Belo Horizonte,http://177.185.57.7:8081/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Belo Horizonte,http://179.108.32.215:80/cgi-bin/viewer/video.jpg?r=COUNTER
+BR,Presidente Prudente,http://138.94.5.206:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Presidente Prudente,http://201.74.167.162:8082/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Presidente Prudente,http://201.74.167.162:8083/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Presidente Prudente,http://177.68.74.173:86/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Presidente Prudente,http://177.234.178.162:80/webcapture.jpg?command=snap&amp;channel=1?COUNTER
+BR,Presidente Prudente,http://201.74.167.162:8084/webcapture.jpg?command=snap&amp;channel=1?COUNTER
