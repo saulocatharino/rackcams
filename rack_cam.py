@@ -31,7 +31,7 @@ try:
                         print("#### Total de câmeras: " , len(lista))
                         lista.append(url)
                         arq = open("cameras.txt","a")
-                        arq.write("{},{}\n".format(local,url.replace('"',"")))
+                        arq.write("{},{},{}\n".format(country,local,url.replace('"',"")))
                         arq.close()
                         print (url)
 
