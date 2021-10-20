@@ -1,4 +1,4 @@
-cidade,url
+country,city,url
 US,Sunnyvale,http://192.135.76.230:80/SnapshotJPEG?Resolution=640x480&amp;amp;Quality=Clarity&amp;amp;COUNTER
 US,Baltimore,http://144.163.43.148:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
 US,Baltimore,http://71.37.29.153:60001/cgi-bin/snapshot.cgi?chn=0&amp;u=admin&amp;p=&amp;q=0&amp;COUNTER
